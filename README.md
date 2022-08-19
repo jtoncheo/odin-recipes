@@ -1,0 +1,1 @@
+Setting up the read me for my Odin Project files
